@@ -6,3 +6,6 @@ for i in range(8):
 print("comment")
 
 print("hello")
+
+while(True):
+    print("hi")
