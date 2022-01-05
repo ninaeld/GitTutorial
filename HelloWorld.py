@@ -7,9 +7,4 @@ print("comment")
 
 print("hello")
 
-while(True):
-    print("hi")
-
-for j in range(2):
-    print(j)
 
